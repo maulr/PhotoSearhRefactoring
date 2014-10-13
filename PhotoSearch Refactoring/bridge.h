@@ -9,5 +9,5 @@
 #ifndef PhotoSearch_Refactoring_bridge_h
 #define PhotoSearch_Refactoring_bridge_h
 #import "AFNetworking/AFNetworking.h"
-
+#import "UIKit+AFNetworking/UIKit+AFNetworking.h"
 #endif
